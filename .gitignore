@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Backups
+backups/
+*.tar.gz
+
+# SSL private keys (safety)
+*.key
+
+# OS files
+.DS_Store
+
