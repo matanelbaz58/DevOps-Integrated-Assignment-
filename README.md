@@ -1,5 +1,5 @@
 # DevOps-Integrated-Assignment-
-Developed by Matan Elbaz, with assistance from ChatGPT.
+Developed by Matan Elbaz.
 
 
 This project deploys a static website on a Linux server using NGINX with HTTP and HTTPS.
